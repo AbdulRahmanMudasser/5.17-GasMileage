@@ -35,5 +35,7 @@
 
         // total miles per gallon
         Console.WriteLine("Total Miles Per Gallon In This Trip:  " + average);
+
+        Console.WriteLine();    // just for spacing purpose
     }
 }
