@@ -38,4 +38,6 @@
 
         Console.WriteLine();    // just for spacing purpose
     }
+    // end of Main method
 }
+// end of GasMileage class
